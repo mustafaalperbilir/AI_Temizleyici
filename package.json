@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "ai_temizlikci",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.71.2",
+    "@modelcontextprotocol/sdk": "^1.25.3",
+    "electron": "^40.1.0",
+    "pdf-parse": "^2.2.2",
+    "zod": "^4.3.6"
+  }
+}
